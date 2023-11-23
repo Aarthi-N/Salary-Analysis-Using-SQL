@@ -1,1 +1,1 @@
-# Salary-By-Title-And-Country-Analysis-Using-SQL
+# Salary-By-Title-And-Country-Analysis
